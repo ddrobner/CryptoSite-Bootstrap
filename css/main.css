@@ -35,6 +35,17 @@ html {
     width: auto;
     max-width: 150px;
     max-height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pub-key-enc {
+    height: auto;
+    width: auto;
+    max-width: 225px;
+    max-height: 225px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
