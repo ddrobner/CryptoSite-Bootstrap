@@ -49,3 +49,13 @@ html {
     margin-left: auto;
     margin-right: auto;
 }
+
+#telegram {
+    height: auto;
+    width: auto;
+    max-width: 500px;
+    max-height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
